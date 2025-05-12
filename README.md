@@ -1,5 +1,6 @@
   <!--Banner-->
-<p><img src="https://github.com/kirulegion/kirulegion/blob/main/banner.PNG" alt="Kirulegion Banner Image"></p>
+<p><img src="https://github.com/kirulegion/kirulegion/blob/main/banner.png" alt="Kirulegion Banner Image"></p>
+<!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -47,7 +48,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/kirulegion">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirulegion&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirulegion&amp;count_private=true&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats">
         </a>
       </p>
     </td>
@@ -55,7 +56,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/kirulegion">
-          <img align="center" src="https://streak-stats.demolab.com?user=kirulegion&amp;theme=nightowl" alt="Streak Stats">
+          <img align="center" src="https://streak-stats.demolab.com?user=kirulegion&amp;theme=radical" alt="Streak Stats">
         </a>
       </p>
     </td>
@@ -65,15 +66,15 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
 	        <a href="https://github.com/kirulegion">
-	          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kirulegion&amp;repo=Nvim_Config&amp;theme=nightowl&amp;show_owner=true" alt="Neovim Config">
+	          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kirulegion&amp;repo=Neovim_config&amp;theme=radical" alt="Neovim configuration">
 	        </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/kirulegion">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=kirulegion&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirulegion&layout=compact&theme=radical" alt="Top Repo">
         </a>
       </p>
     </td>
