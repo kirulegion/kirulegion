@@ -1,5 +1,5 @@
   <!--Banner-->
-<p><img src="https://github.com/kirulegion/kirulegion/blob/main/banner.png" alt="Kirulegion Banner Image"></p>
+<p><img src="https://github.com/kirulegion/kirulegion/blob/main/banner.PNG" alt="Kirulegion Banner Image"></p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
