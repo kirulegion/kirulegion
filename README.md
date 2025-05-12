@@ -9,7 +9,7 @@
 <p><em>Digital Craftsman (Developer / Programmer)</em>
 <br></p>
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer with a huge love for Rust , React.js, Node.js, Django, RDBMS, REST API and . </p>
 <ul>
 <li>✨ Student of life :)</li>
 <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
@@ -65,9 +65,9 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/kirulegion">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kirulegion&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
-        </a>
+	        <a href="https://github.com/kirulegion">
+	          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kirulegion&amp;repo=Nvim_Config&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
+	        </a>
       </p>
     </td>
     <td width="50%">
