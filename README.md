@@ -1,6 +1,5 @@
   <!--Banner-->
 <p><img src="https://github.com/kirulegion/kirulegion/blob/main/banner.PNG" alt="Kirulegion Banner Image"></p>
-<!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -66,7 +65,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
 	        <a href="https://github.com/kirulegion">
-	          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kirulegion&amp;repo=Nvim_Config&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
+	          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kirulegion&amp;repo=Nvim_Config&amp;theme=nightowl&amp;show_owner=true" alt="Neovim Config">
 	        </a>
       </p>
     </td>
