@@ -1,5 +1,5 @@
   <!--Banner-->
-<p><img src="https://github.com/Kiran1689/kiran1689/blob/main/banner.png" alt="Kiran1689 Banner Image"></p>
+<p><img src="https://github.com/kirulegion/kirulegion/blob/main/banner.png" alt="Kirulegion Banner Image"></p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -97,17 +97,11 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/ayushkumar2402/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="mailto:ayush.0.kumar2224@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="kirannaragund197@gmail.com" mail="" style="margin-bottom: 5px;">
-</a>
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="kiran_a_n" instagram="" style="margin-bottom: 5px;">
-</a>
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;">
 </a>
 </div>
 <!--Footer--> 
