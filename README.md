@@ -6,7 +6,7 @@
 </div>
 <!--Header Name-->
 <h1 id="-ɪᴍ-ᴋɪʀᴀɴ"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ Legion!</h1>
-<p><em>Digital Craftsman (Developer / Programmer)</em>
+<p><em>Developer / Programmer</em>
 <br></p>
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for Rust , React.js, Node.js, Django, RDBMS, REST API and . </p>
